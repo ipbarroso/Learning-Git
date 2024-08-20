@@ -1,0 +1,8 @@
+Adding git to github:
+1. Make repository in github (Make sure not to add readme file)
+2. Navigate to your local folder in the terminal = cd ../../..
+3. Adding to a git repositorie = git init
+4. Adding to a staging area = git add . ("." is for the whole directory. You can single files separated by space. And *.py)
+5. Pearmently adding to repositorie = git commit -m "Inital commit." (-m is for message. Write description inside quotes)
+6. Linking local repository to GitHub repository = git remote add origin https://github.com/your-username/your-repo-name.git
+7. Push your files to GitHub = git push -u origin main
