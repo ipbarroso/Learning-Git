@@ -6,3 +6,10 @@ Adding git to github:
 5. Pearmently adding to repositorie = git commit -m "Inital commit." (-m is for message. Write description inside quotes)
 6. Linking local repository to GitHub repository = git remote add origin https://github.com/your-username/your-repo-name.git
 7. Push your files to GitHub = git push -u origin main
+
+Updating files to GitHub:
+1. Naviagte to Git Repository
+2. Check modified files = git status
+3. Add updates to staging area = git add .
+4. Commit changes = git commit -m "Your commit message describing the changes"
+5. Push the Changes to git GitHub = git push origin main (I'm using main but use whatever branch you're using)
