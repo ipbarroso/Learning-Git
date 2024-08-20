@@ -1,0 +1,13 @@
+Repository: 
+1. Make directory = mkdir Moon
+2. Going to the directory = cd Moon 
+3. Adding to a git repositorie = git init
+4. Adding to a staging area = git add . ("." is for the whole directory. You can single files separated by space. And *.py)
+5. Pearmently adding to repositorie = git commit -m "Inital commit." (-m is for message. Write description inside quotes)
+
+
+Commands:
+* Make directory = mkdir name
+* Going into the directory = cd name 
+* Checking what files and directories are in a directory = ls // ls -a (Shows everything even hidden stuff)
+* Check the status of git = git status

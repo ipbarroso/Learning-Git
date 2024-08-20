@@ -1,0 +1,21 @@
+Settings needed to set up:
+* Name
+    git config --global user.name "Username"
+* Email
+    git config --global user.email "email"
+* Default Editor
+    git config --global core.editor "code --wait"       #(Only for Vs Code)
+* Line Ending 
+    git config --global core.authorcrlf input           #(write input for Mac and Linux. Write True for Windows)
+* Open default editor to edit all global settings
+    git config --global -e
+
+LEVELS:
+1- System (All Users)
+2- Global (All repositories of the current User)
+3- Local (The current repository)
+
+HELP:
+git --help
+git config --help
+git config -h (short summary)
