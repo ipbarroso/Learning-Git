@@ -1,0 +1,4 @@
+#Removing files:
+* Make sure after file was removed from folder to add changes to git repository
+* You can use git rm filename (or pattern) to remove files from directory and staging area at the same time
+

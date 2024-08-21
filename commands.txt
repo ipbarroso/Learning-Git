@@ -1,0 +1,8 @@
+Commands:
+* mkdir name = Make directory
+* cd name = Going into the directory
+* ls // ls -a (Shows everything even hidden stuff) = Checking what files and directories are in a directory
+* git status = Check the status of git 
+* rm filename = Remove file 
+* git ls-files = Check all files in git repository 
+* git rm filename = Delete file from directory and staging area at the same time 
