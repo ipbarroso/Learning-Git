@@ -6,3 +6,10 @@ Commands:
 * rm filename = Remove file 
 * git ls-files = Check all files in git repository 
 * git rm filename = Delete file from directory and staging area at the same time 
+* git log = logs all the commits done to the project yet
+* git checkout <commit-hash> = Goes back to a previous state of prjoect committed 
+* git branch = list the branches 
+* git checkout main = go back to latest code 
+* git checkout branch_name = goes to another branch (another timeline)
+* git branch <new-branch-name> = creates a new branch
+* git merge <branch_name> = merge <branch_name> into your current branch

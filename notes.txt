@@ -2,3 +2,5 @@
 * Make sure after file was removed from folder to add changes to git repository
 * You can use git rm filename (or pattern) to remove files from directory and staging area at the same time
 
+#Old committs:
+* Whenever we go back with git checkout, we are taking off the main branch, we can go back with git checkout master.
